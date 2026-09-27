@@ -41,8 +41,6 @@ I’m a developer who has turned years of freelancing into a full-time career.
 </tr>
 </table>
 
-<details>
-  <summary>
     <b>📌 Favorite Repos </b>
   </summary>
   <table>
@@ -179,10 +177,7 @@ I’m a developer who has turned years of freelancing into a full-time career.
       </td>
     </tr>
   </table>
-</details>
 
-<details>
-  <summary>
     <b>📖 Biblioteca </b>
   </summary>
   <table>
